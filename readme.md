@@ -7,8 +7,9 @@ This project is purposely left feautre free to allow the forker to start fresh.
 
 Big thanks to Microsoft for typescript and the official starter
 
-## run
+## clone and run
 ```
+$ git clone https://github.com/theptrk/typescript-express-starter.git
 $ npm ci      # you should be using `npm ci` for consistent builds
 $ npm run dev # this will compile ts in watch mode and run nodemon 
 ```
