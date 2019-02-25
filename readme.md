@@ -1,7 +1,10 @@
 # typescript-express-starter
 The project used the `express (v4.16.0)` generator with the `ejs` option. 
+
 Then typescript was introduced and the directories rescaffolded.
+
 This project is purposely left feautre free to allow the forker to start fresh. 
+
 Big thanks to Microsoft for typescript and the official starter
 
 ## run
